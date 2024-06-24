@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how to control an LED using the Bolt IoT platform and the Bolt Cloud. The primary objective is to remotely manage an LED via a web interface, enabling users to turn the LED on and off with just a click of a button. This can be particularly useful in various scenarios, such as controlling lights in a room without leaving the comfort of a couch.
+This project demonstrates controlling an LED using the Bolt IoT platform and the Bolt Cloud. The primary objective is to remotely manage an LED via a web interface, enabling users to turn the LED on and off with just a click of a button. This can be particularly useful in various scenarios, such as controlling lights in a room without leaving the comfort of a couch.
 
 ## Requirements
 
@@ -54,8 +54,7 @@ If the LED does not respond as expected, follow these steps:
 
 ## Example Output
 
-![Buttons in Webpage](mnt/data/Buttons_in_webpage.png)
-![LED Control ON State](mnt/data/LED_control_ON_state.jpg)
+Please refer to 'Buttons_in_webpage.png' and 'LED_control_ON_state.png' for understanding.
 
 ## Conclusion
 
