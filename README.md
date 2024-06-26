@@ -2,12 +2,13 @@
 
 ## Project Overview
 
-This project demonstrates controlling an LED using the Bolt IoT platform and the Bolt Cloud. The primary objective is to remotely manage an LED via a web interface, enabling users to turn the LED on and off with just a click of a button. This can be particularly useful in various scenarios, such as controlling lights in a room without leaving the comfort of a couch.
+This project demonstrates a comprehensive home automation system using the Bolt IoT platform. The system allows you to control an LED and a fan through a web interface, leveraging the Bolt WiFi module for device management via digital and analog signals. This setup serves as a foundational project that can be expanded into a more complex home automation solution.
 
 ## Requirements
 
 - Bolt IoT module (ESP-12E)
 - LED
+- DC fan(for demonstration purpose only)
 - USB cable for power
 - Bolt Cloud account
 - Internet connectivity
